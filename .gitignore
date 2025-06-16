@@ -1,7 +1,3 @@
 .env
 __pycache__/
 venv/
-*.pyc
-*.pyo
-*.pyd
-.Python
